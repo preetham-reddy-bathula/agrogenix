@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_buyingportal.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_cropoptions.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_cropsenglishgrid.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_cropsgrid.xml" value="0.264" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_entrypage.xml" value="0.264" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_farmerspage.xml" value="0.25" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_othersloginpage.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_othersregisterpage.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_othersservices.xml" value="0.20878623188405798" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_sellingportal.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_specialfeatures.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/activity_webview.xml" value="0.16168478260869565" />
+        <entry key="..\:/Agrogenix/app/src/main/res/layout/list_item_row.xml" value="0.22871376811594202" />
+        <entry key="..\:/Agrogenix/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_cropsgrid.xml" value="0.264" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_entrypage.xml" value="0.264" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_farmerspage.xml" value="0.22871376811594202" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_othersloginpage.xml" value="0.19746376811594202" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_othersservices.xml" value="0.25" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_sellingportal.xml" value="0.2" />
+        <entry key="..\:/Project_AGROGENIX/Agrogenix/app/src/main/res/layout/activity_webview.xml" value="0.25" />
+        <entry key="..\:/Users/preet/Desktop/apppp/app/src/main/res/layout/activity_entrypage.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/preet/Desktop/apppp/app/src/main/res/layout/activity_webview.xml" value="0.11911231884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

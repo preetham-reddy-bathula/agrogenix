@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719550404192",
+    "project_id": "agrogenix-a16c3",
+    "storage_bucket": "agrogenix-a16c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719550404192:android:8048ca89ab57e2483b9505",
+        "android_client_info": {
+          "package_name": "com.example.agrogenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719550404192-6ki3fq0bh28fromv35avtm61a1lofqet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfta_DOKUXBk7sE7UrYjOAlf2GsN1ZDIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719550404192-6ki3fq0bh28fromv35avtm61a1lofqet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

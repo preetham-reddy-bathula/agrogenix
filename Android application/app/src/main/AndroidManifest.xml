@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.agrogenix">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Agrogenix">
+        <activity
+            android:name=".buyingportal"
+            android:exported="false" />
+        <activity
+            android:name=".sellingportal"
+            android:exported="false" />
+        <activity
+            android:name=".cropsenglishgrid"
+            android:exported="false" />
+        <activity
+            android:name=".cropsgrid"
+            android:exported="false" />
+        <activity
+            android:name=".othersservices"
+            android:exported="false" />
+        <activity
+            android:name=".othersregisterpage"
+            android:exported="false" />
+        <activity
+            android:name=".othersloginpage"
+            android:exported="false" />
+        <activity
+            android:name=".webview"
+            android:exported="false" />
+        <activity
+            android:name=".farmerspage"
+            android:exported="false" />
+        <activity
+            android:name=".entrypage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

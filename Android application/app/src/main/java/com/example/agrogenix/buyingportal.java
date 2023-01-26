@@ -46,7 +46,7 @@ public class buyingportal extends AppCompatActivity {
 
         loading =  ProgressDialog.show(this,"Loading","please wait",false,true);
 
-        StringRequest stringRequest = new StringRequest(Request.Method.GET, "https://script.google.com/macros/s/AKfycbzfvDJYGtEHpoYPKP7-tCf6-RRdHX2dj5mKRbelLQM4lhN7At3Y9xvyy4gkxTvLeSqv/exec?action=getItems",
+        StringRequest stringRequest = new StringRequest(Request.Method.GET, "<spreadsheet link>",
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {

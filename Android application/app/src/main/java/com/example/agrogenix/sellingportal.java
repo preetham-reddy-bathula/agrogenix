@@ -55,7 +55,7 @@ public class sellingportal extends AppCompatActivity implements View.OnClickList
         final String tphone = phone.getText().toString().trim();
         final String tdescription = description.getText().toString().trim();
 
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://script.google.com/macros/s/AKfycbzfvDJYGtEHpoYPKP7-tCf6-RRdHX2dj5mKRbelLQM4lhN7At3Y9xvyy4gkxTvLeSqv/exec",
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, "<script link>",
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
